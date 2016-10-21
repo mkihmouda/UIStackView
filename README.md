@@ -9,7 +9,7 @@ Thank You.
 
  
 
-  <br><br>  <br><br>
+  <br><br>  
   
    <b> Portrait view :  </b> 
 
@@ -18,7 +18,7 @@ Thank You.
  
  
 
- <br><br> <br><br> <br><br>
+ <br><br>  <br><br>  <br><br>  <br><br> 
  
 
 
