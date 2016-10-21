@@ -18,8 +18,7 @@ Thank You.
  
  
 
- <br><br>  <br><br>  <br><br>  <br><br> 
- 
+  
 
 
  <b> Landscape view : </b> 
