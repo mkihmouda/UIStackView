@@ -11,18 +11,18 @@ Thank You.
 
   <br><br>  <br><br>
   
-  Portrait view : 
+   <b> Portrait view :  </b> 
 
   <img src="http://katikids.com/UIStackView1.png" height="920" width="600">
  
  
  
 
- <br><br>
+ <br><br> <br><br> <br><br>
  
 
 
-  Landscape view : 
+ <b> Landscape view : </b> 
 
   <img src="http://katikids.com/UIStackView2.png" height="600" width="920">
 
