@@ -17,11 +17,6 @@ support portrait and landscape view.
   <img src="http://katikids.com/UIStackView1.png" height="920" width="600">
  
  
- 
-
-  
-
-
  <b> Landscape view : </b> 
 
   <img src="http://katikids.com/UIStackView2.png" height="600" width="920">
