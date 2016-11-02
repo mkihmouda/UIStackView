@@ -3,7 +3,7 @@
 Online Shopping Page with UIStackview
 support portrait and landscape view.
 
-[![Swift 2.3](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://swift.org/)
+[![Swift 2.3](https://img.shields.io/badge/Swift-2.3-orange.svg?style=flat)](https://swift.org/)
 [![License](https://img.shields.io/cocoapods/l/ParallaxView.svg)](https://github.com/PGSSoft/ParallaxView/LICENSE.md)
 
 
