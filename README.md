@@ -14,12 +14,12 @@ support portrait and landscape view.
   
    <b> Portrait view :  </b> 
 
-  <img src="http://katikids.com/UIStackView1.png" height="620" width="400">
+  <img src="http://appsgeeks.de/UIStackView1.png" height="620" width="400">
  
  
  <b> Landscape view : </b> 
 
-  <img src="http://katikids.com/UIStackView2.png" height="400" width="620">
+  <img src="http://appsgeeks.de/UIStackView2.png" height="400" width="620">
 
  
  </p>
